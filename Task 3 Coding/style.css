@@ -1,0 +1,66 @@
+.heading
+{
+    font-family: Arial;
+    color: black;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image3
+{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.background
+{
+    color: rgb(247, 187, 190);
+}
+
+.menuItem
+{
+  font-weight:bold;
+  padding:10px;
+  color:grey;
+  width: 250px;
+  float:left;
+}
+
+.words
+{
+    text-align: center;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+    color: black;
+}
+
+.avatar
+{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image_container
+{
+    width: 1600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu
+{
+    border:1px solid rgb(255, 255, 255);
+    background-color:rgb(241, 236, 241);
+    padding:10px;
+    
+}
